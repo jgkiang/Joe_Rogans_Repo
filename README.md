@@ -1,6 +1,6 @@
 # Joe_Rogans_Repo
 
-Introduction and Problem
+Introduction and Problem:<br />
 We are looking at the relationship between certain COVID data metrics and demographic metrics: <br />
 COVID <br />
   *Vaccination Status <br />
@@ -11,7 +11,7 @@ Demographic <br />
   *Race <br />  
   
 
-Data Source 
+Data Source: <br />
 LA Times Archive of California Coronavirus Data
 
 https://github.com/datadesk/california-coronavirus-data<br />
