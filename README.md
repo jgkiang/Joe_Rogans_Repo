@@ -1,25 +1,25 @@
 # Joe_Rogans_Repo
 
 Introduction and Problem
-We are looking at the relationship between certain COVID data metrics and demographic metrics:
-COVID
-  Vaccination Status
-  Confirmed Case Totals
-  Death Count Totals
-Demographic 
-  Age
-  Race 
+We are looking at the relationship between certain COVID data metrics and demographic metrics: <br />
+COVID <br />
+  *Vaccination Status <br />
+  *Confirmed Case Totals <br />
+  *Death Count Totals <br />
+Demographic <br />
+  *Age <br />
+  *Race <br />  
   
 
 Data Source 
 LA Times Archive of California Coronavirus Data
 
-https://github.com/datadesk/california-coronavirus-data
+https://github.com/datadesk/california-coronavirus-data<br />
 
-California Public Dept. of Health - Covid-19 Cases by Age Group (cdph-age.csv)
-California Public Dept. of Health - Covid-19 Cases by Race / Ethnicity (cdph-race-ethnicity.csv)
-California Public Dept. of Health - Covid-19 Vaccinations by Age Group (cdph-vaccination-state-by-age.csv)
-California Public Dept. of Health - Covid-19 Vaccinations by Race / Ethnicity (cdph-vaccination-state-by-race-ethnicity.csv)
+California Public Dept. of Health - Covid-19 Cases by Age Group (cdph-age.csv)<br />
+California Public Dept. of Health - Covid-19 Cases by Race / Ethnicity (cdph-race-ethnicity.csv)<br />
+California Public Dept. of Health - Covid-19 Vaccinations by Age Group (cdph-vaccination-state-by-age.csv)<br />
+California Public Dept. of Health - Covid-19 Vaccinations by Race / Ethnicity (cdph-vaccination-state-by-race-ethnicity.csv)<br />
 
 
 Research Questions:
