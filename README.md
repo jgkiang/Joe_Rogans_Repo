@@ -1,2 +1,35 @@
 # Joe_Rogans_Repo
-Our bootcamp project uses data to uncover the real truths about Covid.
+
+Introduction and Problem
+We are looking at the relationship between certain COVID data metrics and demographic metrics:
+COVID
+  Vaccination Status
+  Confirmed Case Totals
+  Death Count Totals
+Demographic 
+  Age
+  Race 
+  
+
+Data Source 
+LA Times Archive of California Coronavirus Data
+
+https://github.com/datadesk/california-coronavirus-data
+
+California Public Dept. of Health - Covid-19 Cases by Age Group (cdph-age.csv)
+California Public Dept. of Health - Covid-19 Cases by Race / Ethnicity (cdph-race-ethnicity.csv)
+California Public Dept. of Health - Covid-19 Vaccinations by Age Group (cdph-vaccination-state-by-age.csv)
+California Public Dept. of Health - Covid-19 Vaccinations by Race / Ethnicity (cdph-vaccination-state-by-race-ethnicity.csv)
+
+
+Research Questions:
+1. What races have the highest vaccinations in California?
+2. What age groups have the highest vaccinations?
+3. What race has the highest positive test rate and death count?
+4. Which age has the highest positive test rate and death count?
+
+
+Limitations & Challenges:
+1. When combining datasets, we have to take into account whether they’re pulling from the original raw dataset with access to the same amount of data.
+2. Our data only covers California, therefore, any assumptions or recommendations we make may not apply to other states or countries. 
+3. Due to time constraints, we did not use any datasets with current population counts, therefore we cannot make any per capita calculations.
